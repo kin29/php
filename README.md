@@ -9,3 +9,6 @@ require と include はほぼ同じだが、失敗した場合の動きが異な
 require → 致命的なエラーを発生する。スクリプトの処理がそこで止まってしまう。
 include → 警告 (E_WARNING) を発するが、スクリプトの処理は続行する。
 - requireVsInclude.php
+
+- once.php    
+↑ require_onceとinclude_once
