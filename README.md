@@ -12,3 +12,6 @@ include → 警告 (E_WARNING) を発するが、スクリプトの処理は続�
 
 - once.php    
 ↑ require_onceとinclude_once
+
+### 変数のスコープ(=有効範囲)...ローカル変数/グローバル変数/静的(static)変数
+- scope.php
