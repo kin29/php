@@ -23,7 +23,3 @@ echo "---require(Error) E N D---\n\n";
 echo "---require START---\n";
 require(dirname(__FILE__) . '/dummy/require.php');
 echo "---require E N D---\n\n";
-
-
-
-
