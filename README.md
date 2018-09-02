@@ -16,5 +16,5 @@ include → 警告 (E_WARNING) を発するが、スクリプトの処理は続�
 ### 変数のスコープ(=有効範囲)...ローカル変数/グローバル変数/静的(static)変数
 - scope.php
 
-## travis-ci
-導入してみる
+## Test(TravisCIしよう)
+- src/passArgument.php [![Build Status](https://travis-ci.org/kin29/php.svg?branch=master)](https://travis-ci.org/kin29/php)
